@@ -57,5 +57,6 @@ In today’s fast-paced world, convenience is key. This project aims to bridge t
 ![Manage Order Page](C:\xampp\htdocs\Project-Food_order\screenshot\manageOrder.png)
 ![Manage User Page](C:\xampp\htdocs\Project-Food_order\screenshot\manageUser.png)
 
+## If images are error, you can click on the screenshot folder to see the UI of this project
 
 
